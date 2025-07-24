@@ -4,3 +4,5 @@ You should look for these csv files from balanced dataset:
 
 emnist-balanced-train.csv
 emnist-balanced-test.csv
+
+OK
